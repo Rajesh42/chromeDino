@@ -80,7 +80,7 @@ function getCloud() {
 
 var hurdles = [];
 var hurdleImage = new Image();
-hurdleImage.src = "https://user-images.githubusercontent.com/64878501/89603432-bf01b980-d886-11ea-8b7b-94418931ce39.png";
+hurdleImage.src = "https://user-images.githubusercontent.com/64878501/93012177-a7230100-f5bb-11ea-90f7-3fb90f025307.png";
 
 var score = 0;
 function getHurdle() {
